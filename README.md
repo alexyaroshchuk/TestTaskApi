@@ -15,4 +15,5 @@
 12. После чего можно использовать функционал предварительно записав в headers
     
     Authorization Bearer 'KEY'
+    
     Accept application/json
