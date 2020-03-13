@@ -13,5 +13,6 @@
 11. register (http://localhost/register)
 11. login (http://localhost/login) -> get key
 12. После чего можно использовать функционал предварительно записав в headers
+    
     Authorization Bearer 'KEY'
     Accept application/json
