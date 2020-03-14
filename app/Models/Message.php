@@ -29,9 +29,6 @@ class Message extends Model
             'to_user_id' => $toUserId,
             'message' => $message,
         ]);
-        return [
-            'object' => $message,
-            'code' => 200
-        ];
+        return $message;
     }
 }
